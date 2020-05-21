@@ -18,7 +18,8 @@ Wefinz es una comunidad, no un software, no una página web, no un ERP…
 
 ## ¿ Qué no es Wefinz ?
 
-Un **software**, una página **web**, un **ERP**
+Un **software**, una página **web**, un **ERP**...
+
 Este concepto debe quedar claro, por que la verdadera ventaja reside en el trabajo colaborativo; la unión de muchos pequeños es sin duda más fuerte y poderosa que los grandes.
 
 **Algunas setencias que nos representan**:
