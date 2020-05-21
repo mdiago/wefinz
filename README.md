@@ -27,5 +27,5 @@ Este concepto debe quedar claro, por que la verdadera ventaja reside en el traba
 * Si no se comparte plan contable, wefinz no dejará de ser un software de gestión más 
 * Si no se comparten datos de interlocutores, wefinz no dejará de ser un software de gestión más 
 * Si no se comparten opiniones, experiencias… a modo de “Business Advisor”, wefinz no dejará de ser un sofware de gestión más
-* Si no se facilita el crowdsourcing, crowdfunding, crowdlending, la creación de pools sectoriales de compradores…”, wefinz no dejará de ser un sofware de gestión más
+* Si no se facilita el crowdsourcing, crowdfunding, crowdlending, la creación de pools sectoriales de compradores, las colaboraciones entre miembros…, wefinz no dejará de ser un sofware de gestión más
 
