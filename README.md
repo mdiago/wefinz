@@ -1,6 +1,6 @@
 # wefinz
 
-Wefinz pretende ser fundamentalmente una comunidad, cuya unión permita a los pequeños negocios, sobre los que se sutenta más del 70% de la economía, competir con las grandes corporaciones desde una posición más ventajosa que la actual.
+Wefinz pretende ser fundamentalmente una **comunidad**, cuya unión permita a los pequeños negocios, sobre los que se sutenta más del 70% de la economía, competir con las grandes corporaciones desde una posición más ventajosa que la actual.
 
 Técnicamente y de manera superficial Wefinz es un Framework construido sobre Kivu cuyo objetivo es ayudar a la pequeña y mediana empresa, así como autónomos a mejorar su posición competiva en un entorno cada vez más complicado para ellos.
 
