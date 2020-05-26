@@ -14,7 +14,7 @@ El orden de la anterior enumeración es de suma importancia ya que de la filosof
 
 ## ¿ Qué es Wefinz ?
 
-Wefinz es una comunidad, no un software, no una página web, no un ERP… 
+Wefinz es una comunidad, no un software, no una página web, no un ERP… Más de 400.000 líneas de código, unas 6.000 horas de programación.
 
 ## ¿ Qué no es Wefinz ?
 
